@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "656041998426",
+      "project_id": "sign-in-and-sign-up-app",
+      "storage_bucket": "sign-in-and-sign-up-app.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:656041998426:android:c52c81d57bcc28998cc063",
+          "android_client_info": {
+            "package_name": "com.usama.SigninandSignupapp"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "656041998426-5r5p2991945e2qojv381is30b70nrmoh.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCIWwgXi2ZtK7crtK4sBCrO8csuYh2KlU4"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "656041998426-5r5p2991945e2qojv381is30b70nrmoh.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
